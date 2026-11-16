@@ -1,52 +1,48 @@
 # ZhiShi/知识
 
-## What's ZhiShi
+English | [简体中文](./README.zh.md)
 
-A domain knowledge sharing platform stored on Arweave.
+## What is ZhiShi
 
-## Core Concept
+ZhiShi ([zhishi.io](https://zhishi.io)) is a platform to write and share domain knowledge. Authors write articles in Markdown. Each article is classified by an HKC code, so readers find knowledge by subject. Authors can also back up an article permanently on [Arweave](https://www.arweave.org/).
+
+## Core concepts
 
 ### 1. HKC
 
-HKC is a human-centered knowledge classification method defined by identifying the relationship between human and Ego, human and God, human and human, human and nature.
+HKC is a human-centered method to classify knowledge. It starts from four relations: human and Ego, human and God, human and human, human and nature.
 
-Read more: https://zhishi.io/wiki/HKC-Fen-Lei-Fa-2evWBvH1wu
+- Read more: https://zhishi.io/articles/HKCsheronfWGm-0v
+- Web site: https://hkc.wiki
 
-Web site: https://hkc.wiki
+### 2. Domain knowledge
 
-### 2. Domain Knowledge
+Domain knowledge is all the knowledge about one field. When people learn it, they get the skills and tools to do a complete job.
 
-Domain knowledge is the sum of all knowledge related to a specific field. Through the study and mastery of domain knowledge, corresponding skills and tools can be obtained to help people complete a complete job.
+Read more: https://zhishi.io/articles/dtnDKwlge2jElmrt
 
-Read more: https://zhishi.io/resources/Ling-Yu-Zhi-Shi-Jie-Shao-2evWhR5xZ
+### 3. Permanent storage
 
-### 3. KCMM
+Every published version of an article is kept and does not change. An author can also upload a version to Arweave, a permanent and decentralized network, with the author's own wallet. ZhiShi records the Arweave transaction only when the uploaded content matches the published version.
 
-Knowledge Capability Maturity Model
+## Features
 
-- Level 1: Preservable: book, disk, crystal, DNA
-- Level 2: Readable: book, Kindle
-- Level 3: Usable: course education
-- Level 4: Evolutionary: learning new knowledge
-- Level 5: Spreadable: the Monolith in <<2001 A space Odyssey>>
+### For readers
 
-Read more: https://zhishi.io/resources/KCMM-Jie-Shao-2evVBffeDs
+- Read published articles without an account.
+- Find articles by HKC code, topic, tag, title, author, language and level.
+- See pinned articles first. Each article shows its view count.
 
-### 4. Permanent Storage
+### For authors
 
-All articles and data of ZhiShi are stored on [Arweave](https://www.arweave.org/), a permanent and decentralized web inside an open ledger.
+- Write articles in Markdown and save drafts. Readers do not see drafts.
+- Classify each article with an HKC code. ZhiShi adds the HKC path and name.
+- Publish an article. Each publish adds a new version, and older versions are kept.
+- Withdraw a published article, and publish it again later.
+- Upload images to articles and an avatar to the profile.
+- Back up a version on Arweave with an ArConnect or Arweave.app wallet.
+- Follow articles.
 
-## Feature
+## License
 
-- Edit markdown articles
-- Support ArConnect/Arweave.app wallet
-- Support upload images on Arweave
-- Support store articles on Arweave
-- ...
-
-## Coming soon...
-
-- Decentralized Identity
-- Decentralized database
-- Support NFT
-- ...
+[Apache License 2.0](./LICENSE)
