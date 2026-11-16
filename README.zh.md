@@ -1,10 +1,10 @@
-# ZhiShi/知识
+# ZhiShi
 
 简体中文 | [English](./README.md)
 
 ## 什么是知识
 
-知识（[zhishi.io](https://zhishi.io)）是一个编写和分享领域知识的平台。作者用 Markdown 写文章。每篇文章用一个 HKC 编码分类，读者可以按主题查找知识。作者还可以把文章永久备份到 [Arweave](https://www.arweave.org/)。
+[知识](https://zhishi.io) 是一个编写和分享领域知识的平台。作者用 Markdown 写文章。每篇文章用一个 HKC 编码分类，读者可以按主题查找知识。作者还可以把文章永久备份到 [Arweave](https://www.arweave.org/)。
 
 ## 核心概念
 

@@ -1,10 +1,10 @@
-# ZhiShi/知识
+# ZhiShi
 
 English | [简体中文](./README.zh.md)
 
 ## What is ZhiShi
 
-ZhiShi ([zhishi.io](https://zhishi.io)) is a platform to write and share domain knowledge. Authors write articles in Markdown. Each article is classified by an HKC code, so readers find knowledge by subject. Authors can also back up an article permanently on [Arweave](https://www.arweave.org/).
+[ZhiShi](https://zhishi.io) is a platform to write and share domain knowledge. Authors write articles in Markdown. Each article is classified by an HKC code, so readers find knowledge by subject. Authors can also back up an article permanently on [Arweave](https://www.arweave.org/).
 
 ## Core concepts
 
